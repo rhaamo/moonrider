@@ -18,6 +18,16 @@ const COLORS = {
 
 COLORS.schemes = {
   default: {
+    name: 'Beat Saber',
+    off: '#111',
+    primary: '#1e4482',
+    primarybright: '#0B4BB3',
+    secondary: '#E03A3E',
+    secondarybright: '#FA7578',
+    tertiary: a.YELLOW
+  },
+
+  moonrider: {
     name: 'Super Medium',
     off: '#111',
     primary: COLORS.RED,
